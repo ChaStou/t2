@@ -1,0 +1,12 @@
+ Volume in drive D is Data
+ Volume Serial Number is BE93-9F01
+
+ Directory of D:\Yolov5\t4\t2
+
+11/22/2021  06:15 PM    <DIR>          .
+11/22/2021  06:15 PM    <DIR>          ..
+11/22/2021  06:13 PM                 6 a.txt
+11/22/2021  06:13 PM               229 b.txt
+11/22/2021  06:15 PM                 0 c.txt
+               3 File(s)            235 bytes
+               2 Dir(s)  65,269,665,792 bytes free
