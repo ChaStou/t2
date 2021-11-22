@@ -1,0 +1,8 @@
+ Volume in drive D is Data
+ Volume Serial Number is BE93-9F01
+
+ Directory of D:\Yolov5\t2
+
+[.]     [..]    a.txt   b.txt   
+               2 File(s)              6 bytes
+               2 Dir(s)  65,269,886,976 bytes free
